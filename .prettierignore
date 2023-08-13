@@ -1,0 +1,8 @@
+public
+dist
+dist-ssr
+*.local
+node_modules
+.DS_Store
+auto-imports.d.ts
+components.d.ts
